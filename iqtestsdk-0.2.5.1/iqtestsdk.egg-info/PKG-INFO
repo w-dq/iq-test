@@ -1,0 +1,15 @@
+Metadata-Version: 1.1
+Name: iqtestsdk
+Version: 0.2.5.1
+Summary: iqtest sdk
+Home-page: https://iqtest.pub
+Author: Wang Haibo
+Author-email: hbwang@bsbii.cn
+License: MIT Licence
+Description: iqtest sdk for run your model locally
+Keywords: class,boilerplate
+Platform: any
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
